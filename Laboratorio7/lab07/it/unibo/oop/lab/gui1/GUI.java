@@ -1,4 +1,4 @@
-package a01a.e2;
+package it.unibo.oop.lab.gui1;
 
 
 import javax.swing.*;

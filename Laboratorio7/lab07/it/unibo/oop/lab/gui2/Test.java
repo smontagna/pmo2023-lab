@@ -1,4 +1,4 @@
-package it.unibo.oop.l21;
+package  it.unibo.oop.lab.gui2;
 
 public class Test {
 

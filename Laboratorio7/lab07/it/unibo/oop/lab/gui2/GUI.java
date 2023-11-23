@@ -1,4 +1,4 @@
-package it.unibo.oop.gui2;
+package it.unibo.oop.lab.gui2;
 
 import javax.swing.*;
 import java.util.*;
